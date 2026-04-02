@@ -1,5 +1,3 @@
-## Rope Marker Casing
-
 ##  Introduction
 This repository contains the necessary files to 3D print your own rope marker casing. This specific casing is designed to fit ropes with a **9mm diameter**.
 
