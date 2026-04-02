@@ -23,4 +23,4 @@ The original casings were designed using **Fusion 360** and printed and tested o
 1. **Snap-Fit Mechanism:** The casing is designed to snap shut. It should close smoothly without requiring excessive force, which could otherwise break the profile.
 2. **Z-Seam Placement:** When slicing the model, it is crucial to place the Z-seam in the **middle** of the profile. Do not place the seam at the ends or on a corner, as this will interfere with the snap-fit mechanism and prevent the case from closing properly.
 
-3. <b>RopeMarker</b> - A project by Teun Joosen (1094450)
+<b>RopeMarker</b> - A project by Teun Joosen (1094450)
